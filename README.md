@@ -1,6 +1,6 @@
-# Laravel7_LAMP
+# Laravel 7 LAMP
 Laravel Installation on Ubuntu18.04 LAMP
-
+__This is my personal setup guide for installing Laravel 7__, I set it public so anyone ca use
 ## Installing Apache
 
 1. Install Apache via apt
